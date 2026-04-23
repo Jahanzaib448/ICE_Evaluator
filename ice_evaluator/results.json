@@ -1,0 +1,7 @@
+{
+    "bot_detected": false,
+    "auth_status": "Success",
+    "primary_auth_method": "SQLi",
+    "otp_bypass_status": "Success",
+    "total_execution_time": 0
+}
